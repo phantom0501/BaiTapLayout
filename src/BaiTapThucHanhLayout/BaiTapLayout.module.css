@@ -1,0 +1,16 @@
+.sidebarEdit {
+  list-style: none;
+  border: 1px solid #dddddd;
+}
+
+.itemChildPadding {
+  padding-left: 20px;
+}
+
+.sidebarBorder {
+  border-bottom: none;
+}
+
+.text {
+  text-decoration: none;
+}
